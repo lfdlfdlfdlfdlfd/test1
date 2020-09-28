@@ -8,8 +8,13 @@ System.out.println("123456");
 System.out.println("147258");
 System.out.println("zswxde");
 System.out.println("rfctgv");
+<<<<<<< HEAD
 System.out.println("11111111");
 System.out.println("33333333");
+=======
+System.out.println("2222222222");
+System.out.println("4444444444");
+>>>>>>> refs/heads/Dev2
 	}
 
 }
