@@ -6,6 +6,8 @@ public class Git1 {
 		// TODO Auto-generated method stub
 System.out.println("123456");
 System.out.println("147258");
+System.out.println("zswxde");
+System.out.println("rfctgv");
 	}
 
 }
